@@ -1,0 +1,14 @@
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\bin\Debug\net10.0\Frågesport.exe
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\bin\Debug\net10.0\Frågesport.deps.json
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\bin\Debug\net10.0\Frågesport.runtimeconfig.json
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\bin\Debug\net10.0\Frågesport.dll
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\bin\Debug\net10.0\Frågesport.pdb
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.AssemblyInfoInputs.cache
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.AssemblyInfo.cs
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.csproj.CoreCompileInputs.cache
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.dll
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\refint\Frågesport.dll
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.pdb
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.genruntimeconfig.cache
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\ref\Frågesport.dll
