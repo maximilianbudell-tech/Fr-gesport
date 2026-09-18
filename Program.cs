@@ -3,14 +3,14 @@ using System.Runtime.CompilerServices;
 
 String Svar1 = "";
 
-int Poäng = 5;
+int Poäng = 0;
 Console.WriteLine("Startpoäng = 1");
 Console.WriteLine("Vad är Sveriges Huvudstad?");
 Console.WriteLine("A) Stockholm, B) Göteborg, C) Malmö");
 Svar1 = Console.ReadLine();
 if (Svar1 == "A")
 {
-    Console.WriteLine("Du har rätt! +5 poäng");
+    Console.WriteLine("Du har rätt! +1 poäng");
     Poäng++;
 }
 else
@@ -25,14 +25,63 @@ Console.WriteLine("A) Sverige, Danmark, Finland. B) Sverige, Finland, Norge. C) 
 Svar2 = Console.ReadLine();
 if (Svar2 == "C")
 {
-    Console.WriteLine("Du har rätt! +5 poäng");
+    Console.WriteLine("Du har rätt! +1 poäng");
     Poäng++;
 }
 else
 {
-    C
+    Console.WriteLine("Fel!");
 }
-Console.WriteLine(Poäng);
+
+
+String Svar3 = "";
+
+Console.WriteLine("Hur många är det som går i våran klass?");
+Console.WriteLine("A) 27. B) 28. C) 30.");
+Svar3 = Console.ReadLine();
+if (Svar3 == "B")
+{
+    Console.WriteLine("Du har rätt! +1 poäng");
+    Poäng++;
+}
+else
+{
+    Console.WriteLine("Fel!");
+}
+
+
+
+
+
+String Svar4 = "";
+
+Console.WriteLine("Vilket land har längst kustlinje?");
+Console.WriteLine("A) Ryssland B) Chile C) Canada");
+Svar4 = Console.ReadLine();
+if (Svar4 == "C")
+{
+    Console.WriteLine("Du har rätt! +1 poäng");
+    Poäng++;
+}
+else
+{
+    Console.WriteLine("Fel!");
+}
+
+if (Poäng < 1) {
+    Console.WriteLine("Oj, Det ser ut som du inte har någon kunskap. Eftersom du fick", Poäng, "poäng");
+}
+else if (Poäng == 2) {
+    Console.WriteLine("Du fick hälften rätt! Du har 2 poäng!");
+}
+else if (Poäng == 3) {
+    Console.WriteLine("Så nära att få alla rätt, försök igen så kommer du få alla rätt! Du har", Poäng, "poäng");
+}
+else {
+    Console.WriteLine("Du är väldigt smart, Du fick all rätt! Du fick", Poäng, "poäng");
+}
+    
+
 Console.ReadLine();
  
  
