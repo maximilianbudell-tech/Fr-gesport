@@ -12,3 +12,4 @@ C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\re
 C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.pdb
 C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.genruntimeconfig.cache
 C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\ref\Frågesport.dll
+C:\Dev\Skola Teknik\Programmering 1\Frågesport\Frågesport\obj\Debug\net10.0\Frågesport.sourcelink.json
